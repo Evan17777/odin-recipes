@@ -10,23 +10,3 @@
     margin: auto;
     padding: 20px;
 }
-
-ul{
-    text-align: center;
-    list-style-type: none;
-    border: 3px, solid red;
-    padding-left: 0px;
-
-     
-
-}
-
-li{
-    border: 3px, solid green;
-    display: inline-flex;
-    margin: 50px;
-    padding: 35px;
-    background-color: rgb(85, 85, 85);
-
-
-}
